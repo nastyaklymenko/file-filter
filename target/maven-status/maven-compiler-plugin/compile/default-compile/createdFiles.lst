@@ -1,0 +1,6 @@
+com\servlet\TextFileServlet.class
+com\servlet\HomePageServlet.class
+com\model\MetaData.class
+com\model\TextFile.class
+com\util\ExcludeStrategy.class
+com\util\JSONConverter.class
